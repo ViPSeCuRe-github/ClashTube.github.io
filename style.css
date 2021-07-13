@@ -43,3 +43,8 @@ ul li a:hover{
   background-color: #fff;
     color: #000;
   }
+.log img{
+  float: left;
+  width: 150px;
+  height: auto;
+  }
