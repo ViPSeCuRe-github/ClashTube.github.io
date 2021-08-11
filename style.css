@@ -6,3 +6,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+body
+{
+  background: linear-gradient(#2b1055,#7597de);
+}
