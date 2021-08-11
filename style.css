@@ -27,3 +27,8 @@ header .logo{
   text-transform: uppercase;
   Letter-spacing: 2px;
 }
+header ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
