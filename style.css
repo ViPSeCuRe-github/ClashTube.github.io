@@ -11,3 +11,14 @@ body
   min-height: 100vh;
   background: linear-gradient(#2b1055,#7597de);
 }
+header
+{
+  position: absolute;
+  top: 0;
+  Left: 0;
+  width: 100%;
+  padding: 30px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
