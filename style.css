@@ -15,7 +15,16 @@ ul{
 }
 ul li{ 
   display: inline-block; 
-}ul li a{ text-decoration: none; color: #fff; padding: 5px 20px; border: 1px solid transparent; transition: 0.6s ease; }ul li a:hover{ background-color: #fff; color: #000; }ul li.active a{ background-color: #fff; color: #000; }.log img{ float: left; width: 50px; height: auto; }.main{ max-width: 1200px; margin: auto; }.title{ position: absolute; top: 50%; left: 50%; transform: translate (-50%,-50%); }
+}ul li a{ 
+  text-decoration: none; 
+  color: #fff; padding: 5px 20px; 
+  border: 1px solid transparent; 
+  transition: 0.6s ease; 
+}
+ul li a:hover{ 
+  background-color: #fff; 
+  color: #000; 
+}ul li.active a{ background-color: #fff; color: #000; }.log img{ float: left; width: 50px; height: auto; }.main{ max-width: 1200px; margin: auto; }.title{ position: absolute; top: 50%; left: 50%; transform: translate (-50%,-50%); }
 
 
 
