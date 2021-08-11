@@ -41,3 +41,7 @@ header ul li a{
   padding: 6px 15px;
   color: #fff;
 }
+header ul li a:hover{
+  background: #fff;
+  color; #2b1055;
+  }
