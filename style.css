@@ -15,7 +15,8 @@ ul{
 }
 ul li{ 
   display: inline-block; 
-}ul li a{ 
+}
+ul li a{ 
   text-decoration: none; 
   color: #fff; padding: 5px 20px; 
   border: 1px solid transparent; 
