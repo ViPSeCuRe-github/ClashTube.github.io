@@ -46,8 +46,3 @@ header ul li a:hover{
   background: #fff;
   color; #2b1055;
 }
-section img{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
