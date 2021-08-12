@@ -28,7 +28,7 @@ header .logo{
   Letter-spacing: 2px;
 }
 header ul{
-  display: flex;
+  9: flex;
   justify-content: center;
   align-items: center;
 }
